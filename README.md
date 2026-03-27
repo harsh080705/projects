@@ -1,2 +1,2 @@
 # projects
-this is the basics i have learnt
+This is the basics i have learnt
